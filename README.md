@@ -8,8 +8,8 @@ Este projeto é um **assistente inteligente de análise de dados**, capaz de int
 
 ## 1. Clonar o projeto
 ```bash
-git clone <seu-repositorio>
-cd <nome-do-projeto>
+git clone <http://github.com/DanrleyS/Assistente_virtual_de_dados>
+cd <Assistente_virtual_de_dados>
 2. Criar ambiente virtual (opcional, recomendado)
 python -m venv venv
 venv\Scripts\activate  # Windows
